@@ -6,5 +6,7 @@ Writeups on my unorthodox sock knitting
 
 Basic 2-at-a-time-toe up techniques
 
+* [Basic Sock Pattern](fool-proof-sock-recipe.md): My foolproof way of knitting socks for over a decade.
 * [Toe up cast on](sock-cast-on.md): Simple cast ons to get you started.
 * [Fleegle heel](sock-fleegle-heel.md): Simple heel turns without seems.
+
