@@ -2,4 +2,9 @@
 
 Writeups on my unorthodox sock knitting
 
-[Snake Knitting](2socks-2colors.md): Stategies for knitting 2-socks-at-a-time with 2-colors in Figure-8-snakes
+* [Snake Knitting](2socks-2colors.md): Stategies for knitting 2-socks-at-a-time with 2-colors in Figure-8-snakes
+
+Basic 2-at-a-time-toe up techniques
+
+* [Toe up cast on](sock-cast-on.md): Simple cast ons to get you started.
+* [Fleegle heel](sock-fleegle-heel.md): Simple heel turns without seems.
