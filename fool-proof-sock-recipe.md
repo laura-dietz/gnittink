@@ -48,7 +48,13 @@ knit all stitches
 
 
 ------------------------------------------------------------
-# GUSSET INCREAS
+# GUSSET INCREASE
+
+> Note, nowadays I skip this calculation and instead repeatedly try the sock on. Here is what to look for:
+> 1. half way through the foot start increasing every other row. (see gusset increase)
+> 2. when the sole reaches all the way to the back of the sole, start turning the heel (see make the heel)
+> 3. stop decreasing heel stitches when the fit is good (see make the heel)
+
 
 
 we work the gusset increase by repeating these two rows
@@ -60,11 +66,6 @@ we work the gusset increase by repeating these two rows
 
 - row i+1, instep & sole, A&B: Knit all stitches
 
-
-> Note, nowadays I avoid this calculation and instead try the sock on. Here is what to look for:
-> 1. half way through the foot start increasing every other row.
-> 2. when the sole reaches all the way to the back of the sole, start turning the heel
-> 3. stop decreasing heel stitches when the fit is good.
 
 
 but we first have to determine when to start the gusset increase:
